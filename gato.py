@@ -1,1 +1,1 @@
-print("gatos")
+print("otros gatos")
