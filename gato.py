@@ -10,3 +10,5 @@ def raiz(a):
 
 print("operacion de radical")
 
+def ultimo-digito(a):
+  return a%10
