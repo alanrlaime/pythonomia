@@ -12,3 +12,12 @@ print("operacion de radical")
 
 def ultimo-digito(a):
   return a%10
+
+#Recursividad
+
+def factoria(n):
+  if n == 1:
+    return 1
+  else:
+    return n*factorial(n-1)
+    
