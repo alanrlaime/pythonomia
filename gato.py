@@ -20,4 +20,6 @@ def factoria(n):
     return 1
   else:
     return n*factorial(n-1)
-    
+
+def gato(n):
+  print("Hola soy",n)
