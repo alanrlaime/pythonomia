@@ -23,3 +23,7 @@ def factoria(n):
 
 def gato(n):
   print("Hola soy",n)
+
+def notengo():
+  print("no tengo")
+  
