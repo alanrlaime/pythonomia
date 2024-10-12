@@ -26,4 +26,7 @@ def gato(n):
 
 def notengo():
   print("no tengo")
-  
+
+
+def multiplicacion(a,b):
+  return a*b
