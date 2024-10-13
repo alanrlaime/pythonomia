@@ -30,3 +30,5 @@ def notengo():
 
 def multiplicacion(a,b):
   return a*b
+print("con los gatos")
+print(suma(2,5))
