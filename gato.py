@@ -21,13 +21,6 @@ def factoria(n):
   else:
     return n*factorial(n-1)
 
-def gato(n):
-  print("Hola soy",n)
-
-def notengo():
-  print("no tengo")
-
-
 def multiplicacion(a,b):
   return a*b
 print("con los gatos")
