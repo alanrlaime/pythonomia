@@ -29,4 +29,14 @@ print(suma(2,5))
 
 def gatos(n):
   print("tengo frio")
+
+def sumarDigitosPares(n,c,s):
+  if(c != 0):
+    h = n%10
+    n = n/10
+    c = c-1
+    if( h/2 == 0):
+      s = s+h
+    return sumarDigitosPares(n,c,s)
+  return s
   
