@@ -26,4 +26,6 @@ def sumarDigitosPares(n,c,s):
       s = s+h
     return sumarDigitosPares(n,c,s)
   return s
+
+def desiciones(t):
   
