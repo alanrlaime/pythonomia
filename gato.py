@@ -27,5 +27,10 @@ def sumarDigitosPares(n,c,s):
     return sumarDigitosPares(n,c,s)
   return s
 
-def desiciones(t):
-  
+def menu__dias(a):
+  dias = {
+    0 : "lunes",
+    1 : "martes",
+    2 : "miercoles
+  }
+  entr = int(input("opciones: "))
