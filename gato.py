@@ -8,15 +8,6 @@ def factoria(n):
   else:
     return n*factorial(n-1)
 
-def multiplicacion(a,b):
-  return a*b
-print("con los gatos")
-print(suma(2,5))
-
-
-def gatos(n):
-  print("tengo frio")
-
 def sumarDigitosPares(n,c,s):
   if(c != 0):
     h = n%10
@@ -34,5 +25,3 @@ def menu__dias(a):
     2 : "miercoles
   }
   entr = int(input("opciones: "))
-def gatos(c):
-  print("gatos")
