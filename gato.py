@@ -27,3 +27,6 @@ def menu__dias(a):
     2 : "miercoles
   }
   entr = int(input("opciones: "))
+
+def gatos_otros_mas():
+  print("miau y demas")
