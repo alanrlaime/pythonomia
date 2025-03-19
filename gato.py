@@ -24,7 +24,7 @@ def menu__dias(a):
   dias = {
     0 : "lunes",
     1 : "martes",
-    2 : "miercoles
+    2 : "miercoles"
   }
   entr = int(input("opciones: "))
 
